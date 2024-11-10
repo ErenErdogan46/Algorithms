@@ -1,1 +1,4 @@
 # Algorithms
+
+Sorting:
+  Bubble Sort
